@@ -1,7 +1,7 @@
 package com.Harish.app;
 
 /**
- * Hello world!This is my final code
+ * Hello world!
  *
  */
 public class App 
